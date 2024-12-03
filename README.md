@@ -1,3 +1,5 @@
+https://github.com/dotnet/maui/issues/26338
+
 # dotnet-maui-bug-resource-manager
 
 * Build in the Debug configuration for Android
